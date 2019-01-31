@@ -18,3 +18,9 @@ The order in which the indices appear for each tensor is:
 - for the left-most tensor: (right,physical)
 - for “bulk" tensors : (right, physical, left)
 - for the right-most tensor: (physical, left)
+
+
+This tensors are obtained using density-matrix renormalization group algorithm 
+implemented using ITensor itensor.org/
+
+
